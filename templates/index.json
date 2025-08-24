@@ -824,14 +824,15 @@
           "type": "Image",
           "settings": {
             "review_icon": "shopify://shop_images/coupe-homme-degradee-cheveux-fins-jpg.webp",
-            "review_text": "Add awesome customer testimonial right here",
+            "review_text": "J’avais essayé plein de produits sans résultats (minoxidile...), celui-ci a enfin stoppé ma chute.",
             "review_rating": 5
           }
         },
         "image_QpC3An": {
           "type": "Image",
           "settings": {
-            "review_text": "Add awesome customer testimonial right here",
+            "review_icon": "shopify://shop_images/picture.jpg",
+            "review_text": "Après quelques semaines d’utilisation, mes cheveux sont plus épais et j’ai retrouvé confiance.",
             "review_rating": 5
           }
         }
