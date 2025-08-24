@@ -791,6 +791,7 @@
         "image_7gfM7P": {
           "type": "Image",
           "settings": {
+            "review_icon": "shopify://shop_images/homme-cheveux-boucls-70_3.jpg",
             "review_text": "Add awesome customer testimonial right here",
             "review_rating": 5
           }
@@ -798,6 +799,7 @@
         "image_Q8Fq7r": {
           "type": "Image",
           "settings": {
+            "review_icon": "shopify://shop_images/images.jpg",
             "review_text": "Add awesome customer testimonial right here",
             "review_rating": 5
           }
@@ -805,6 +807,7 @@
         "image_dYWPyH": {
           "type": "Image",
           "settings": {
+            "review_icon": "shopify://shop_images/c367e023-1adf-4884-81fd-b1f4e91cd820__1001_idees___Coupe_courte_degradee_l_entretien_presque_facile.webp",
             "review_text": "Add awesome customer testimonial right here",
             "review_rating": 5
           }
@@ -812,6 +815,7 @@
         "image_VfQPEF": {
           "type": "Image",
           "settings": {
+            "review_icon": "shopify://shop_images/5-1.jpg",
             "review_text": "Add awesome customer testimonial right here",
             "review_rating": 5
           }
@@ -819,6 +823,7 @@
         "image_krpmD3": {
           "type": "Image",
           "settings": {
+            "review_icon": "shopify://shop_images/coupe-homme-degradee-cheveux-fins-jpg.webp",
             "review_text": "Add awesome customer testimonial right here",
             "review_rating": 5
           }
