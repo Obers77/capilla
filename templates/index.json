@@ -217,6 +217,18 @@
             "link_text": "",
             "link_style": "link"
           }
+        },
+        "item_CYbmYD": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p><em>\"54 ans, chauve depuis mes 35 ans. Pendant des années, j’ai eu honte de ma tête nue : je paraissais vieux, fatigué, et j’évitais les photos. Aujourd’hui, j’ai l’impression d’avoir rajeuni de 10 ans. Ma femme me redécouvre, et mes enfants m’ont lancé : “papa t’as des cheveux !”. Si j’avais su, j’aurais commencé bien avant.\"</em></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
         }
       },
       "block_order": [
@@ -224,7 +236,8 @@
         "item_cmVn3k",
         "item_yhC6CM",
         "item_QH4JCk",
-        "item_K4GX7B"
+        "item_K4GX7B",
+        "item_CYbmYD"
       ],
       "name": "Multi-column",
       "settings": {
