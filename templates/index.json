@@ -153,6 +153,19 @@
     "multi_column_drkRGC": {
       "type": "multi-column",
       "blocks": {
+        "item_Dbd7Lj": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/008_Untitled_design_-_2025-03-20T153107.222.jpg",
+            "column_size": "3",
+            "title": "Cedric P.",
+            "heading_tag": "h4",
+            "content": "<p><em>\"Perdre mes cheveux me complexait chaque jour : j’avais l’air plus vieux, fatigué et je perdais confiance dès que je parlais à quelqu’un. Je voulais juste retrouver une apparence correcte… Ce sérum a changé la donne : mes cheveux sont plus denses, je me sens mieux dans ma peau et mes interactions pro sont redevenues naturelles.\"</em></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
         "item_cmVn3k": {
           "type": "item",
           "settings": {
@@ -174,19 +187,6 @@
             "title": "Column title",
             "heading_tag": "h4",
             "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_Dbd7Lj": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/008_Untitled_design_-_2025-03-20T153107.222.jpg",
-            "column_size": "3",
-            "title": "Column title",
-            "heading_tag": "h4",
-            "content": "<p><em>\"Perdre mes cheveux me complexait chaque jour : j’avais l’air plus vieux, fatigué et je perdais confiance dès que je parlais à quelqu’un. Je voulais juste retrouver une apparence correcte… Ce sérum a changé la donne : mes cheveux sont plus denses, je me sens mieux dans ma peau et mes interactions pro sont redevenues naturelles.\"</em></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -220,9 +220,9 @@
         }
       },
       "block_order": [
+        "item_Dbd7Lj",
         "item_cmVn3k",
         "item_yhC6CM",
-        "item_Dbd7Lj",
         "item_QH4JCk",
         "item_K4GX7B"
       ],
@@ -231,7 +231,7 @@
         "full_width": true,
         "stack_on_mobile": false,
         "gap": "medium",
-        "text_alignment": "start",
+        "text_alignment": "center",
         "subheading": "",
         "title": "",
         "content": "",
