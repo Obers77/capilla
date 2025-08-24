@@ -533,50 +533,6 @@
     },
     "beforeafter_yxBhkG": {
       "type": "beforeafter",
-      "blocks": {
-        "item_AAhY4U": {
-          "type": "item",
-          "settings": {
-            "icon": "atc",
-            "title": "Key feature",
-            "text": "Describe a key feature in detail.",
-            "column": "1"
-          }
-        },
-        "item_mwVPBa": {
-          "type": "item",
-          "settings": {
-            "icon": "atc",
-            "title": "Key feature",
-            "text": "Describe a key feature in detail.",
-            "column": "1"
-          }
-        },
-        "item_NGgn9z": {
-          "type": "item",
-          "settings": {
-            "icon": "atc",
-            "title": "Key feature",
-            "text": "Describe a key feature in detail.",
-            "column": "2"
-          }
-        },
-        "item_BzDRxP": {
-          "type": "item",
-          "settings": {
-            "icon": "atc",
-            "title": "Key feature",
-            "text": "Describe a key feature in detail.",
-            "column": "2"
-          }
-        }
-      },
-      "block_order": [
-        "item_AAhY4U",
-        "item_mwVPBa",
-        "item_NGgn9z",
-        "item_BzDRxP"
-      ],
       "name": "SS - Before / After #5",
       "settings": {
         "content_align": "center",
