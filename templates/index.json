@@ -800,7 +800,7 @@
           "type": "Image",
           "settings": {
             "review_icon": "shopify://shop_images/images.jpg",
-            "review_text": "Add awesome customer testimonial right here",
+            "review_text": "J'ai plus besoin de casquette depuis que j’utilise Capellis.",
             "review_rating": 5
           }
         },
@@ -808,7 +808,7 @@
           "type": "Image",
           "settings": {
             "review_icon": "shopify://shop_images/c367e023-1adf-4884-81fd-b1f4e91cd820__1001_idees___Coupe_courte_degradee_l_entretien_presque_facile.webp",
-            "review_text": "Add awesome customer testimonial right here",
+            "review_text": "Chaque douche était un cauchemar avec tous ces cheveux qui tombaient, maintenant c'est terminé !",
             "review_rating": 5
           }
         },
@@ -816,7 +816,7 @@
           "type": "Image",
           "settings": {
             "review_icon": "shopify://shop_images/5-1.jpg",
-            "review_text": "Add awesome customer testimonial right here",
+            "review_text": "J’avais toujours peur qu’on remarque ma calvitie, aujourd’hui j’assume beaucoup mieux.",
             "review_rating": 5
           }
         },
