@@ -156,6 +156,7 @@
         "item_cmVn3k": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/012_3_4d148f1c-7442-48a1-857f-a1ac2d2e5ccb.jpg",
             "column_size": "3",
             "title": "Nicolas S.",
             "heading_tag": "h4",
@@ -168,6 +169,7 @@
         "item_yhC6CM": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/007_5_ba2ac351-254d-4bab-92fa-508c29fe0b4e.jpg",
             "column_size": "3",
             "title": "Column title",
             "heading_tag": "h4",
@@ -178,6 +180,32 @@
           }
         },
         "item_Dbd7Lj": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/008_Untitled_design_-_2025-03-20T153107.222.jpg",
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_QH4JCk": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/010_Untitled_design_-_2025-03-20T185012.341.jpg",
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_K4GX7B": {
           "type": "item",
           "settings": {
             "column_size": "3",
@@ -193,7 +221,9 @@
       "block_order": [
         "item_cmVn3k",
         "item_yhC6CM",
-        "item_Dbd7Lj"
+        "item_Dbd7Lj",
+        "item_QH4JCk",
+        "item_K4GX7B"
       ],
       "name": "Multi-column",
       "settings": {
