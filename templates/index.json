@@ -9,6 +9,21 @@
  */
 {
   "sections": {
+    "image_with_text_overlay_MQqtey": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
     "logo_list_fGK4eC": {
       "type": "logo-list",
       "blocks": {
@@ -51,7 +66,7 @@
       "settings": {
         "full_width": true,
         "stack_mobile": true,
-        "title": "Ils parlent de nous",
+        "title": "Vu sur",
         "content": "",
         "text_alignment": "center",
         "items_per_row": 5,
@@ -91,21 +106,6 @@
       }
     },
     "image_with_text_overlay_VbWT6w": {
-      "type": "image-with-text-overlay",
-      "name": "Image with text overlay",
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "enable_parallax": false,
-        "image_size": "auto",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0
-      }
-    },
-    "image_with_text_overlay_MQqtey": {
       "type": "image-with-text-overlay",
       "name": "Image with text overlay",
       "settings": {
