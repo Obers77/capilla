@@ -186,7 +186,7 @@
             "column_size": "3",
             "title": "Column title",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p><em>\"À 42 ans, je voyais mon front reculer de plus en plus. Chaque matin devant le miroir, c’était un rappel que je perdais mes cheveux… et ma confiance. Avec ce sérum, la chute s’est stoppée dès la première semaine. Aujourd’hui, mes cheveux repoussent et je me sens enfin mieux dans ma peau.\"</em></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
