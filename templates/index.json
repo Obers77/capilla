@@ -463,6 +463,39 @@
         "accordion_text_color": ""
       }
     },
+    "multi_column_cVE8CP": {
+      "type": "multi-column",
+      "blocks": {
+        "item_UWWLUP": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Dr. Antoine Morel -Dermatologue, 15 ans d'expérience",
+            "heading_tag": "h4",
+            "content": "<p>Sur 10,000 patients, voici les faits : Minoxidil = irritations. Finastéride = effets secondaires.<br/>Problème : ils restent en surface. La DHT est à 5mm.<br/>Capellis pénètre en profondeur. Résultat : 87% retrouvent leurs cheveux.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_UWWLUP"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "start",
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "ssvideos_XdrfBA": {
       "type": "ssvideos",
       "blocks": {
@@ -624,6 +657,7 @@
     "featured_product_DUVgGf",
     "tabs_73gaaK",
     "faq_UMQ6q6",
+    "multi_column_cVE8CP",
     "ssvideos_XdrfBA"
   ]
 }
