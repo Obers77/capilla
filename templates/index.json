@@ -433,12 +433,14 @@
         "step_KWq6nK": {
           "type": "step",
           "settings": {
+            "image": "shopify://shop_images/6b6c4eaa654348da92beee9f469e2e8a-ezgif_com-video-to-gif-converter_webp_1.webp",
             "text": "<p>Get personalised treatment plan and insights based on health data</p>"
           }
         },
         "step_7M4bXz": {
           "type": "step",
           "settings": {
+            "image": "shopify://shop_images/be7d357a0e6e4fe79b9da00b57b7a51b-ezgif_com-video-to-gif-converter_webp.webp",
             "text": "<p>Track your health score to monitor the progress and stay in control</p>"
           }
         }
