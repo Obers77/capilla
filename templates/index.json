@@ -126,20 +126,6 @@
     },
     "rich_text_3fizHn": {
       "type": "rich-text",
-      "blocks": {
-        "heading_tdnwFx": {
-          "type": "heading",
-          "settings": {
-            "text": "Pourquoi choisir le Souffleur AIRON PRO ?",
-            "heading_tag": "h4",
-            "text_color": "",
-            "gradient": ""
-          }
-        }
-      },
-      "block_order": [
-        "heading_tdnwFx"
-      ],
       "name": "Rich text",
       "settings": {
         "full_width": true,
@@ -148,37 +134,6 @@
         "background": "",
         "background_gradient": "",
         "text_color": ""
-      }
-    },
-    "video_YRkjwh": {
-      "type": "video",
-      "blocks": {
-        "play_6bQNU8": {
-          "type": "play",
-          "settings": {}
-        },
-        "heading_JCmTbE": {
-          "type": "heading",
-          "settings": {
-            "text": "Video",
-            "heading_tag": "h1"
-          }
-        }
-      },
-      "block_order": [
-        "play_6bQNU8",
-        "heading_JCmTbE"
-      ],
-      "name": "Video",
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "autoplay": false,
-        "video_size": "auto",
-        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 30
       }
     },
     "custom_liquid_9tWtHn": {
@@ -464,7 +419,6 @@
     "rich_text_zrwLCi",
     "image_with_text_overlay_VbWT6w",
     "rich_text_3fizHn",
-    "video_YRkjwh",
     "custom_liquid_9tWtHn",
     "multi_column_drkRGC",
     "featured_product_DUVgGf",
