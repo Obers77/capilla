@@ -489,7 +489,7 @@
         "modal_padding_horizontal_mobile": 0,
         "modal_radius": 16,
         "modal_border_thickness": 0,
-        "modal_overlay": 50,
+        "modal_overlay": 0,
         "close_size": 42,
         "close_size_mobile": 42,
         "close_radius": 8,
