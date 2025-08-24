@@ -405,6 +405,7 @@
         "video_Nf846e": {
           "type": "video",
           "settings": {
+            "video": "shopify://files/videos/058_c8dfe083d3bd4a7095b2385979d37a4f.mp4",
             "video_url": "",
             "modal_heading": "<h4>Modal Heading</h4>",
             "modal_text": "<p>Modal Text</p>"
@@ -413,6 +414,7 @@
         "video_mhKPA4": {
           "type": "video",
           "settings": {
+            "video": "shopify://files/videos/059_4202c406e9b04cd48c178ecb088b50fb.mp4",
             "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
             "modal_heading": "<h4>Modal Heading</h4>",
             "modal_text": "<p>Modal Text</p>"
