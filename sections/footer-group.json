@@ -89,36 +89,35 @@
     "footer": {
       "type": "footer",
       "blocks": {
-        "newsletter": {
-          "type": "newsletter",
-          "settings": {
-            "image_width": 150,
-            "heading_size": "h3",
-            "title": "Sign up for new stories and personal offers",
-            "content": ""
-          }
-        },
-        "links": {
-          "type": "links",
-          "settings": {
-            "menu": "footer",
-            "show_menu_title": true,
-            "menu_title": ""
-          }
-        },
-        "text": {
+        "text_tbyUEC": {
           "type": "text",
           "settings": {
-            "title": "About",
-            "content": "<p>Use this text area to tell your customers about your brand and vision. You can change it in the theme editor.</p>",
-            "enable_follow_on_shop": true
+            "title": "LIENS UTILES",
+            "content": "<p><a href=\"https://aironpro.shop\" title=\"https://aironpro.shop\">Airon PRO™</a></p><p><a href=\"https://aironpro.shop/apps/parcelpanel\" title=\"https://aironpro.shop/apps/parcelpanel\">Suivre ma commande</a></p><p><a href=\"/pages/qui-somme-nous\" title=\"Qui sommes nous ?\">Qui sommes-nous ?</a><br/><br/><a href=\"/pages/contact\" title=\"Contact\">Nous contacter</a></p>",
+            "enable_follow_on_shop": false
+          }
+        },
+        "text_CghBhF": {
+          "type": "text",
+          "settings": {
+            "title": "À PROPOS",
+            "content": "<ul><li><a href=\"/pages/politique-de-confidentialite\" title=\"Politique de Confidentialité\">Politique de confidentialité</a></li><li><a href=\"/pages/politique-de-retour-et-de-remboursement\" title=\"Politique de Retour et de Remboursement\">Politique de remboursement</a></li><li><a href=\"/pages/conditions-generales-de-vente\" title=\"Conditions générales de vente\">Conditions générales de vente</a></li><li><a href=\"/pages/contact\" title=\"Contact\">Contact</a></li><li><a href=\"/pages/mentions-legales\" title=\"Mentions légales\">Mentions légales</a></li></ul>",
+            "enable_follow_on_shop": false
+          }
+        },
+        "text_WF9RHM": {
+          "type": "text",
+          "settings": {
+            "title": "Besoin d'aide ?",
+            "content": "<p>Contactez-nous via notre formulaire dans la page <a href=\"/pages/contact\" target=\"_blank\" title=\"Contact\">Contact </a>ou par e-mail à <strong>contact@aironpro.shop</strong></p><p><strong>Horaires</strong> : Du Lun au Dim de 8h à 12h et de 14h à 20h / Sam et Dim de h à 13h</p>",
+            "enable_follow_on_shop": false
           }
         }
       },
       "block_order": [
-        "newsletter",
-        "links",
-        "text"
+        "text_tbyUEC",
+        "text_CghBhF",
+        "text_WF9RHM"
       ],
       "settings": {
         "show_social_media": true,
