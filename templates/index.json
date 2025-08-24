@@ -583,30 +583,6 @@
     "tableaudecomparison_pzrEMb": {
       "type": "tableaudecomparison",
       "blocks": {
-        "list_item_JMzhV3": {
-          "type": "list_item",
-          "settings": {
-            "text": "Fall asleep quicker"
-          }
-        },
-        "list_item_zNA4ek": {
-          "type": "list_item",
-          "settings": {
-            "text": "Relax & Restorative sleep"
-          }
-        },
-        "list_item_YzBa3A": {
-          "type": "list_item",
-          "settings": {
-            "text": "Wake up refreshed"
-          }
-        },
-        "list_item_ytf6tj": {
-          "type": "list_item",
-          "settings": {
-            "text": "Plant based"
-          }
-        },
         "table_row_cTz9BW": {
           "type": "table_row",
           "settings": {
@@ -693,10 +669,6 @@
         }
       },
       "block_order": [
-        "list_item_JMzhV3",
-        "list_item_zNA4ek",
-        "list_item_YzBa3A",
-        "list_item_ytf6tj",
         "table_row_cTz9BW",
         "table_row_7BqVwp",
         "table_row_QYLGNc",
@@ -707,7 +679,7 @@
       "name": "SS - Comparison Table #6",
       "settings": {
         "body_gap": 32,
-        "body_gap_mobile": 32,
+        "body_gap_mobile": 18,
         "content_horizontal_align": "start",
         "content_horizontal_align_mobile": "center",
         "heading": "<p><em>US</em> <strong>vs Other Brands</strong></p>",
@@ -736,7 +708,7 @@
         "list_text_size": 20,
         "list_text_size_mobile": 18,
         "list_text_height": 150,
-        "button": "TRY DEEP DREAMS",
+        "button": "TESTEZ SANS RISQUE",
         "button_url": "",
         "button_custom": false,
         "button_font": "josefin_sans_n4",
