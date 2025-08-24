@@ -30,6 +30,7 @@
         "logo_LUJ8HN": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/003_png-clipart-tf1-group-mytf1-television-channel-others-purple-television_avec_arriere-plan_supprime_300x_8413c8e3-59dd-47c7-9b2b-f7a95ddde918.png",
             "logo_width": 120,
             "link": ""
           }
@@ -37,6 +38,7 @@
         "logo_zaM3rK": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/004_gempages_555008507703722818-21b0ccb5-3d2c-478a-8ac3-49e715c77530_300x_7667dd8f-4882-4696-b038-570443c8a2e3.png",
             "logo_width": 80,
             "link": ""
           }
@@ -44,6 +46,7 @@
         "logo_RGiVth": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/005_Untitled_design_7_300x_7ad5fccb-03dc-4dda-a52d-1f4f4e5cd9ac.png",
             "logo_width": 120,
             "link": ""
           }
