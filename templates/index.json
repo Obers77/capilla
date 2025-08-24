@@ -270,6 +270,12 @@
             "heading_tag": "h3"
           }
         },
+        "liquid_gzQpyK": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<style>\n  .benefits {\n    font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;\n    color: #2b2b2b;\n    line-height: 1.35;\n  }\n  .benefits__title {\n    display: flex;\n    align-items: center;\n    gap: 8px;\n    font-weight: 800;\n    text-transform: uppercase;\n    letter-spacing: .3px;\n    margin: 0 0 10px 0;\n    font-size: 16px;\n  }\n  .benefits__list {\n    list-style: none;\n    padding: 0;\n    margin: 0;\n    display: grid;\n    gap: 8px;\n  }\n  .benefits__item {\n    display: flex;\n    align-items: center;\n    gap: 10px;\n  }\n  .benefits__icon {\n    width: 22px;\n    height: 22px;\n    flex: 0 0 22px;\n  }\n  .benefits__text {\n    font-size: 16px;\n    font-weight: 700;\n  }\n  .benefits__dash {\n    font-weight: 500;\n  }\n  /* Couleurs */\n  .blue  { fill: #48AFEB; }   /* bleu demandé */\n  .gold  { fill: #F4B000; }   /* trophée doré */\n</style>\n\n<div class=\"benefits\">\n  <div class=\"benefits__title\">\n    <!-- Trophée -->\n    <svg class=\"benefits__icon gold\" viewBox=\"0 0 24 24\" aria-hidden=\"true\">\n      <path d=\"M6 2h12v2h3v3a5 5 0 0 1-4 4.9A6.99 6.99 0 0 1 13 16v2h3v2H8v-2h3v-2a6.99 6.99 0 0 1-4-4.1A5 5 0 0 1 1 7V4h3V2Zm0 4H3v1a3 3 0 0 0 3 3V6Zm15 0h-3v4a3 3 0 0 0 3-3V6Z\"/>\n    </svg>\n    <span>N°1 contre la perte de cheveux</span>\n  </div>\n\n  <ul class=\"benefits__list\">\n    <li class=\"benefits__item\">\n      <!-- Lit -->\n      <svg class=\"benefits__icon blue\" viewBox=\"0 0 24 24\" aria-hidden=\"true\">\n        <path d=\"M3 7h10a4 4 0 0 1 4 4h4v6h-2v-2H5v2H3V7Zm2 2v4h10a2 2 0 0 0-2-2H9a2 2 0 0 0-2-2H5Z\"/>\n      </svg>\n      <span class=\"benefits__text\">Fini les cheveux sur l’oreiller <span class=\"benefits__dash\">– dès 7 jours</span></span>\n    </li>\n\n    <li class=\"benefits__item\">\n      <!-- Personnes -->\n      <svg class=\"benefits__icon blue\" viewBox=\"0 0 24 24\" aria-hidden=\"true\">\n        <path d=\"M9 11a3 3 0 1 1 0-6 3 3 0 0 1 0 6Zm6 1a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5ZM2 19a5 5 0 0 1 10 0v1H2v-1Zm11 1v-1a4 4 0 0 1 6.4-3.2A4.5 4.5 0 0 1 22 20v1h-9Z\"/>\n      </svg>\n      <span class=\"benefits__text\">On te demande ton secret <span class=\"benefits__dash\">– dès 21 jours</span></span>\n    </li>\n\n    <li class=\"benefits__item\">\n      <!-- Restauration / retour -->\n      <svg class=\"benefits__icon blue\" viewBox=\"0 0 24 24\" aria-hidden=\"true\">\n        <path d=\"M12 5a7 7 0 1 1-6.32 4H3l3-3 3 3H6.56A5 5 0 1 0 12 7V5Z\"/>\n      </svg>\n      <span class=\"benefits__text\">Densité de tes 30 ans retrouvée <span class=\"benefits__dash\">– en 90 jours</span></span>\n    </li>\n  </ul>\n</div>"
+          }
+        },
         "liquid_pMynFn": {
           "type": "liquid",
           "settings": {
@@ -325,6 +331,7 @@
       "block_order": [
         "liquid_qfxEct",
         "title_7w84LC",
+        "liquid_gzQpyK",
         "liquid_pMynFn",
         "kaching_bundles_app_block_gfD7Aj",
         "image_G7h7yx",
