@@ -315,47 +315,72 @@
         "heading_gradient": ""
       }
     },
-    "faq": {
+    "faq_UMQ6q6": {
       "type": "faq",
       "blocks": {
-        "166442457738b23caf-0": {
+        "item_EUbJF3": {
           "type": "item",
           "settings": {
-            "title": "Do you ship overseas?",
-            "content": "<p>Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout. We run discounts and promotions all year, so stay tuned for exclusive deals.</p>"
+            "title": "Aura-t-il assez de puissance pour les vrais dégâts extérieurs comme les feuilles ou la poussière de terrasse ?",
+            "content": "<p><br/>Absolument. Malgré sa taille compacte, le Airon Pro™ génère un flux d'air puissant et ciblé, capable de déplacer des feuilles, de la saleté et même des débris humides sur les terrasses, les garages ou les balcons. Il est conçu pour des résultats concrets — pas seulement pour la poussière légère.</p>"
           }
         },
-        "166442457738b23caf-1": {
+        "item_m3cq4R": {
           "type": "item",
           "settings": {
-            "title": "How long will it take to get my orders?",
-            "content": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.</p>"
+            "title": "Est-il aussi bruyant que les autres souffleurs ?",
+            "content": "<p>Oui, il fait du bruit — comme tout souffleur haute vitesse.</p><p>Mais voilà : nous incluons des bouchons d’oreilles avec chaque Airon Pro™, pour votre confort. Le son est assez fort pour sentir la puissance, mais pas assez pour déranger vos voisins. Vous l’entendrez, pas tout le quartier.</p>"
           }
         },
-        "166442457738b23caf-2": {
+        "item_EUPYf7": {
           "type": "item",
           "settings": {
-            "title": "Any question?",
-            "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+            "title": "Puis-je l’utiliser à la fois en intérieur et en extérieur ?",
+            "content": "<p>Oui — Airon Pro™ a été conçu pour une polyvalence totale. Utilisez-le pour nettoyer l’intérieur de votre voiture, autour de la maison, sur les appareils électroniques, mais aussi à l’extérieur : terrasses, feuilles, grilles d’aération… Il est assez précis pour les zones délicates et assez puissant pour les travaux extérieurs.</p>"
+          }
+        },
+        "item_6xLEwx": {
+          "type": "item",
+          "settings": {
+            "title": "Est-il facile à utiliser ou à entretenir ?",
+            "content": "<p>Carrément. Pas de réglages compliqués, pas d’outils, pas d’entretien. Il suffit d’insérer la batterie et d’appuyer sur un bouton. Prêt à l’emploi dès la sortie de la boîte — pas besoin de notice.</p>"
+          }
+        },
+        "item_TThW9N": {
+          "type": "item",
+          "settings": {
+            "title": "Et si je ne l’aime pas ou qu’il ne me convient pas ?",
+            "content": "<p>Aucun stress. Vous êtes couvert par <strong>notre garantie satisfaction 30 jours</strong>. Essayez-le, testez-le : si vous n’êtes pas 100 % satisfait, vous le retournez — sans aucune question.</p>"
+          }
+        },
+        "item_VzqR4z": {
+          "type": "item",
+          "settings": {
+            "title": "Est-il trop petit ou léger pour remplacer mon gros souffleur ?",
+            "content": "<p>C’est tout l’intérêt. Airon Pro™ a été conçu pour <strong>remplacer le volume sans perdre en performance</strong>. Pour 90 % des tâches du quotidien, vous n’aurez plus besoin de votre souffleur lourd et encombrant. Et votre dos vous dira merci.</p>"
           }
         }
       },
       "block_order": [
-        "166442457738b23caf-0",
-        "166442457738b23caf-1",
-        "166442457738b23caf-2"
+        "item_EUbJF3",
+        "item_m3cq4R",
+        "item_EUPYf7",
+        "item_6xLEwx",
+        "item_TThW9N",
+        "item_VzqR4z"
       ],
+      "name": "FAQ",
       "settings": {
-        "full_width": false,
+        "full_width": true,
         "subheading": "",
-        "title": "FAQ",
-        "content": "<p>Use this text to share information about your product or shipping policies.</p>",
+        "title": "Les questions les plus posées",
+        "content": "",
         "team_avatar_width": 160,
-        "support_hours": "Our customer support is available Monday to Friday: 8am-8:30pm.",
-        "answer_time": "Average answer time: 24h",
+        "support_hours": "Notre service client est disponible 7j/7; de 8H à 12H et de 14H à 20H",
+        "answer_time": "Temps de réponse moyen : 24h",
         "button_text": "",
         "button_url": "",
-        "text_position": "start",
+        "text_position": "center",
         "background": "#ffffff",
         "background_gradient": "",
         "text_color": "",
@@ -363,7 +388,7 @@
         "heading_gradient": "",
         "button_background": "",
         "button_text_color": "",
-        "accordion_background": "",
+        "accordion_background": "#ffa07e",
         "accordion_text_color": ""
       }
     }
@@ -378,6 +403,6 @@
     "multi_column_drkRGC",
     "featured_product_DUVgGf",
     "tabs_73gaaK",
-    "faq"
+    "faq_UMQ6q6"
   ]
 }
