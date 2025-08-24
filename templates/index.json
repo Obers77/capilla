@@ -1079,7 +1079,7 @@
         "arrow_show_mobile": false,
         "show_content": false,
         "modal_width": 30,
-        "modal_width_mobile": 95,
+        "modal_width_mobile": 100,
         "modal_padding_vertical": 0,
         "modal_padding_vertical_mobile": 0,
         "modal_padding_horizontal": 0,
