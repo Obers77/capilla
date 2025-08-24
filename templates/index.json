@@ -54,6 +54,7 @@
         "logo_4HynJe": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/PikPng.com_mens-health-logo-png_5598244.png",
             "logo_width": 120,
             "link": ""
           }
