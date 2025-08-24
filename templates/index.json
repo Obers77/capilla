@@ -270,6 +270,12 @@
             "heading_tag": "h2"
           }
         },
+        "liquid_pMynFn": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<style>\n  .blink {\n    animation: blink-animation 1s steps(5, start) infinite;\n    color: #ff0000;\n    display: inline-block;\n    vertical-align: middle;\n    font-size: 16px; /* Plus gros pour être plus voyant */\n    font-weight: bold;\n  }\n\n  @keyframes blink-animation {\n    50% {\n      opacity: 0;\n    }\n  }\n\n  .red-div {\n    background: linear-gradient(135deg, #ff4d4d, #ff9999);\n    padding: 10px 20px;\n    border-radius: 12px;\n    display: inline-flex; /* flex pour aligner le point et le texte */\n    align-items: center;\n    justify-content: center;\n    margin: 20px auto;\n    box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.2);\n    animation: pulse 2s infinite; /* effet visuel pour attirer l'œil */\n  }\n\n  @keyframes pulse {\n    0% { transform: scale(1); }\n    50% { transform: scale(1.05); }\n    100% { transform: scale(1); }\n  }\n\n  .container {\n    text-align: center; /* centre le bloc entier */\n  }\n\n  .text {\n    display: inline-block;\n    vertical-align: middle;\n    margin-left: 12px;\n    color: #fff;\n    font-weight: 700;\n    font-size: 16px;\n    text-transform: uppercase; /* rend le texte plus impactant */\n    letter-spacing: 1px;\n  }\n</style>\n\n<div class=\"container\">\n  <div class=\"red-div\">\n    <div class=\"blink\">&#9679;</div>\n    <div class=\"text\">Stock restant : 3 unités</div>\n  </div>\n</div>"
+          }
+        },
         "kaching_bundles_app_block_gfD7Aj": {
           "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
           "settings": {
@@ -311,6 +317,7 @@
       "block_order": [
         "liquid_qfxEct",
         "title_7w84LC",
+        "liquid_pMynFn",
         "kaching_bundles_app_block_gfD7Aj",
         "buy_buttons_h39MKf",
         "liquid_TrgmQ6",
