@@ -289,7 +289,7 @@
         "tab_QKUGQ3": {
           "type": "tab",
           "settings": {
-            "title": "Tab 1",
+            "title": "Composition du Serum Capellis - Repousse Active",
             "content": "<p>Use this text to share information about your brand with your customers.</p>",
             "page": ""
           }
@@ -297,7 +297,7 @@
         "tab_hFttgy": {
           "type": "tab",
           "settings": {
-            "title": "Tab 2",
+            "title": "Comment utiliser Capellis",
             "content": "<p>Describe a product, share announcements, or welcome customers to your store.</p>",
             "page": ""
           }
@@ -305,8 +305,16 @@
         "tab_H8ebdm": {
           "type": "tab",
           "settings": {
-            "title": "Tab 3",
+            "title": "Support client 7j/7",
             "content": "<p>Share information about your shipping rates, return policy or contact information.</p>",
+            "page": ""
+          }
+        },
+        "tab_MNnAQm": {
+          "type": "tab",
+          "settings": {
+            "title": "Satisfait ou remboursé",
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
             "page": ""
           }
         }
@@ -314,13 +322,14 @@
       "block_order": [
         "tab_QKUGQ3",
         "tab_hFttgy",
-        "tab_H8ebdm"
+        "tab_H8ebdm",
+        "tab_MNnAQm"
       ],
       "name": "Tabs",
       "settings": {
         "full_width": true,
         "content_size": "medium",
-        "subheading": "Composition du Serum Capellis - Repousse Active",
+        "subheading": "",
         "title": "",
         "text_alignment": "center",
         "first_tab_open": false,
