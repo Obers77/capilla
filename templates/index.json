@@ -497,6 +497,40 @@
         "accordion_text_color": ""
       }
     },
+    "multi_column_DHPnjV": {
+      "type": "multi-column",
+      "blocks": {
+        "item_6AqU4c": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/044_Untitled_design_5.jpg",
+            "column_size": "3",
+            "title": "Essayez Capellis en toute confiance grâce à notre garantie de remboursement de 90 jours !",
+            "heading_tag": "h4",
+            "content": "<p>Des milliers d’hommes et des spécialistes en santé capillaire le confirment : Liftera offre des résultats visibles sur la densité et la repousse des cheveux.</p><p>Convaincus de son efficacité, nous vous proposons une garantie satisfait ou remboursé pendant <strong>90 jours</strong>.</p><p>Si vous ne constatez pas de résultats, nous vous remboursons intégralement.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_6AqU4c"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": true,
+        "gap": "small",
+        "text_alignment": "start",
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "ssvideos_XdrfBA": {
       "type": "ssvideos",
       "blocks": {
@@ -659,6 +693,7 @@
     "tabs_73gaaK",
     "multi_column_cVE8CP",
     "faq_UMQ6q6",
+    "multi_column_DHPnjV",
     "ssvideos_XdrfBA"
   ]
 }
