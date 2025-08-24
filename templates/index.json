@@ -427,21 +427,21 @@
           "type": "step",
           "settings": {
             "image": "shopify://shop_images/a05322debbcd4c6698d3478ac2fba529-ezgif_com-video-to-gif-converter_1_webp.webp",
-            "text": "<p>Start with quick online assessment to identify your pets health problems</p>"
+            "text": "<p>Ouvre le flacon et remplis-le de sérum. Referme sans forcer pour garantir une application optimale.</p>"
           }
         },
         "step_KWq6nK": {
           "type": "step",
           "settings": {
             "image": "shopify://shop_images/6b6c4eaa654348da92beee9f469e2e8a-ezgif_com-video-to-gif-converter_webp_1.webp",
-            "text": "<p>Get personalised treatment plan and insights based on health data</p>"
+            "text": "<p>Retourne le flacon pendant 2 minutes afin que les micro-aiguilles s’imprègnent du sérum.</p>"
           }
         },
         "step_7M4bXz": {
           "type": "step",
           "settings": {
             "image": "shopify://shop_images/be7d357a0e6e4fe79b9da00b57b7a51b-ezgif_com-video-to-gif-converter_webp.webp",
-            "text": "<p>Track your health score to monitor the progress and stay in control</p>"
+            "text": "<p>Applique délicatement sur les zones clairsemées, en effectuant de légères pressions.</p>"
           }
         }
       },
