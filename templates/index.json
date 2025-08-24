@@ -545,6 +545,81 @@
         "lazy": true
       }
     },
+    "glowtesti_gmCbNJ": {
+      "type": "glowtesti",
+      "blocks": {
+        "image_7gfM7P": {
+          "type": "Image",
+          "settings": {
+            "review_text": "Add awesome customer testimonial right here",
+            "review_rating": 5
+          }
+        },
+        "image_Q8Fq7r": {
+          "type": "Image",
+          "settings": {
+            "review_text": "Add awesome customer testimonial right here",
+            "review_rating": 5
+          }
+        },
+        "image_dYWPyH": {
+          "type": "Image",
+          "settings": {
+            "review_text": "Add awesome customer testimonial right here",
+            "review_rating": 5
+          }
+        },
+        "image_VfQPEF": {
+          "type": "Image",
+          "settings": {
+            "review_text": "Add awesome customer testimonial right here",
+            "review_rating": 5
+          }
+        },
+        "image_krpmD3": {
+          "type": "Image",
+          "settings": {
+            "review_text": "Add awesome customer testimonial right here",
+            "review_rating": 5
+          }
+        },
+        "image_QpC3An": {
+          "type": "Image",
+          "settings": {
+            "review_text": "Add awesome customer testimonial right here",
+            "review_rating": 5
+          }
+        }
+      },
+      "block_order": [
+        "image_7gfM7P",
+        "image_Q8Fq7r",
+        "image_dYWPyH",
+        "image_VfQPEF",
+        "image_krpmD3",
+        "image_QpC3An"
+      ],
+      "name": "SS - Glow Testimonial",
+      "settings": {
+        "animation_time": 30,
+        "loop_amount": 2,
+        "header_before_gradient": "Our customers",
+        "header_gradient": "love",
+        "header": "the product",
+        "header_color": "#0B1128",
+        "header_font_size": 42,
+        "header_mob_font_size": 28,
+        "review_font_size": 16,
+        "review_font_color": "#0B1128",
+        "gradient_color_1": "#4222DE",
+        "gradient_color_2": "#659BFF",
+        "gradient_color_3": "#7FF6E8",
+        "blur_color": "#B8B1DC",
+        "background-color": "#ffffff",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "faq_UMQ6q6": {
       "type": "faq",
       "blocks": {
@@ -818,6 +893,7 @@
     "tabs_73gaaK",
     "multi_column_cVE8CP",
     "beforeafter_yxBhkG",
+    "glowtesti_gmCbNJ",
     "faq_UMQ6q6",
     "multi_column_DHPnjV",
     "ssvideos_XdrfBA"
