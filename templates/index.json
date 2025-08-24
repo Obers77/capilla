@@ -600,7 +600,7 @@
         "table_row_7BqVwp": {
           "type": "table_row",
           "settings": {
-            "row_heading": "Plant Based",
+            "row_heading": "Non-invasif",
             "first_column": "",
             "first_column_icon": "check",
             "second_column": "",
@@ -614,11 +614,11 @@
         "table_row_QYLGNc": {
           "type": "table_row",
           "settings": {
-            "row_heading": "Low Sugar",
+            "row_heading": "Sans douleur",
             "first_column": "",
             "first_column_icon": "check",
             "second_column": "",
-            "second_column_icon": "cross",
+            "second_column_icon": "check",
             "third_column": "",
             "third_column_icon": "none",
             "four_column": "",
@@ -628,11 +628,11 @@
         "table_row_x34FCF": {
           "type": "table_row",
           "settings": {
-            "row_heading": "Simple Ingredients",
+            "row_heading": "Risque de rechutes",
             "first_column": "",
-            "first_column_icon": "check",
+            "first_column_icon": "cross",
             "second_column": "",
-            "second_column_icon": "cross",
+            "second_column_icon": "check",
             "third_column": "",
             "third_column_icon": "none",
             "four_column": "",
@@ -642,25 +642,11 @@
         "table_row_xaAMyx": {
           "type": "table_row",
           "settings": {
-            "row_heading": "3rd Party Tested",
-            "first_column": "",
-            "first_column_icon": "check",
-            "second_column": "",
-            "second_column_icon": "cross",
-            "third_column": "",
-            "third_column_icon": "none",
-            "four_column": "",
-            "four_column_icon": "none"
-          }
-        },
-        "table_row_7wjxbE": {
-          "type": "table_row",
-          "settings": {
-            "row_heading": "Delicious Taste",
-            "first_column": "",
-            "first_column_icon": "check",
-            "second_column": "",
-            "second_column_icon": "cross",
+            "row_heading": "Temps pour voir des résultats",
+            "first_column": "1 mois",
+            "first_column_icon": "none",
+            "second_column": "6 mois",
+            "second_column_icon": "none",
             "third_column": "",
             "third_column_icon": "none",
             "four_column": "",
@@ -673,8 +659,7 @@
         "table_row_7BqVwp",
         "table_row_QYLGNc",
         "table_row_x34FCF",
-        "table_row_xaAMyx",
-        "table_row_7wjxbE"
+        "table_row_xaAMyx"
       ],
       "name": "SS - Comparison Table #6",
       "settings": {
