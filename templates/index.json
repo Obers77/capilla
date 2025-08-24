@@ -426,6 +426,7 @@
         "step_JfKpjc": {
           "type": "step",
           "settings": {
+            "image": "shopify://shop_images/a05322debbcd4c6698d3478ac2fba529-ezgif_com-video-to-gif-converter_1_webp.webp",
             "text": "<p>Start with quick online assessment to identify your pets health problems</p>"
           }
         },
@@ -440,19 +441,12 @@
           "settings": {
             "text": "<p>Track your health score to monitor the progress and stay in control</p>"
           }
-        },
-        "step_fc6gMi": {
-          "type": "step",
-          "settings": {
-            "text": "<p>Ask our friendly vets or Rio: AI Assistant if you have any questions</p>"
-          }
         }
       },
       "block_order": [
         "step_JfKpjc",
         "step_KWq6nK",
-        "step_7M4bXz",
-        "step_fc6gMi"
+        "step_7M4bXz"
       ],
       "name": "SS - Steps #4",
       "settings": {
