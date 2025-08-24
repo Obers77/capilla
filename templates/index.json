@@ -336,7 +336,7 @@
           "type": "tab",
           "settings": {
             "title": "Composition du Serum Capellis - Repousse Active",
-            "content": "<p>Use this text to share information about your brand with your customers.</p>",
+            "content": "<p><strong>Ingrédients clés:</strong><br/><br/>• <strong>Acetyl Tetrapeptide-3</strong> : Stimule l’ancrage des cheveux et relance l’activité des follicules.</p><p>• <strong>Copper Tripeptide-1</strong> : Régénère le cuir chevelu et favorise la repousse.</p><p>• <strong>Caféine</strong> : Bloque localement la DHT, principale cause de la chute.</p><p>• <strong>Biotine</strong> : Fortifie les cheveux et stimule leur croissance.</p><p>• <strong>Huile de Menthe Poivrée</strong> : Active la circulation pour oxygéner les racines.</p><p>• <strong>Huile d’Arbre à Thé</strong> : Purifie le cuir chevelu, réduit les pellicules.</p><p>• <strong>Acide Hyaluronique</strong> : Hydrate intensément et nourrit les follicules.</p><p>• <strong>Extrait de Romarin</strong> : Antioxydant naturel, favorise la densité capillaire.</p><p>• <strong>Vitamine E</strong> : Protège le cuir chevelu du stress oxydatif.</p><p>• <strong>Extrait de Thé Vert</strong> : Apaise le cuir chevelu et réduit l’inflammation.</p>",
             "page": ""
           }
         },
@@ -344,7 +344,7 @@
           "type": "tab",
           "settings": {
             "title": "Comment utiliser Capellis",
-            "content": "<p>Describe a product, share announcements, or welcome customers to your store.</p>",
+            "content": "<p>Pour un résultat optimal, suivez ces étapes simples :</p><p>1 - Commencez sur cheveux propres et secs</p><p>2 - Fixez la capsule de sérum sur l’appareil</p><p>3 - Appliquez délicatement sur le cuir chevelu, surtout sur les zones clairsemées</p><p>4 - Utilisez 1 fois par semaine pour une absorption homogène</p><p>5 - Complétez avec votre routine capillaire habituelle</p>",
             "page": ""
           }
         },
@@ -360,7 +360,7 @@
           "type": "tab",
           "settings": {
             "title": "Satisfait ou remboursé",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "content": "<p>Testez notre <strong>Capellis </strong>pendant 9<strong>0 jours, sans risque</strong>.</p><p>Si vous n’êtes pas satisfait, vous pouvez recevoir un <strong>remboursement intégral</strong>.</p>",
             "page": ""
           }
         }
