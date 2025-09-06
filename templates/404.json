@@ -328,36 +328,6 @@
         "text_color": ""
       }
     },
-    "images_with_text_scrolling_8A6qie": {
-      "type": "images-with-text-scrolling",
-      "blocks": {
-        "item_iLrrAE": {
-          "type": "item",
-          "settings": {
-            "icon": "none",
-            "icon_width": 48,
-            "title": "Heading 1",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "item_iLrrAE"
-      ],
-      "name": "Images and text scrolling",
-      "settings": {
-        "full_width": true,
-        "stack_on_mobile": true,
-        "show_counter": false,
-        "desktop_image_effect": "reveal",
-        "image_position": "end",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": ""
-      }
-    },
     "videoslider_7VeRtc": {
       "type": "videoslider",
       "blocks": {
@@ -480,6 +450,70 @@
         "border_thickness": 0,
         "lazy": true
       }
+    },
+    "images_with_text_scrolling_8A6qie": {
+      "type": "images-with-text-scrolling",
+      "blocks": {
+        "item_nmHaGk": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/019_pourquoi_nos_bodys.png",
+            "icon": "none",
+            "icon_width": 48,
+            "title": "",
+            "content": ""
+          }
+        }
+      },
+      "block_order": [
+        "item_nmHaGk"
+      ],
+      "name": "Images and text scrolling",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": true,
+        "show_counter": false,
+        "desktop_image_effect": "reveal",
+        "image_position": "end",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
+    },
+    "rich_text_BQjPgb": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_87r8bF": {
+          "type": "heading",
+          "settings": {
+            "text": "Pourquoi nos bodys sont uniques ?",
+            "heading_tag": "h3",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "richtext_T6w63d": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p><strong>Nos bodys shapewear sculptent à 360°, sans jamais comprimer.</strong></p><p>Le tissu doux et respirant épouse vos formes comme une seconde peau, en gardant la peau fraîche et confortable toute la journée.<br/><br/>Bien plus qu'un body, c'est un allié du quotidien qui vous redonne confiance en vous.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_87r8bF",
+        "richtext_T6w63d"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
     }
   },
   "order": [
@@ -493,6 +527,7 @@
     "tabs_yHbqzV",
     "custom_liquid_YzwtTG",
     "videoslider_7VeRtc",
-    "images_with_text_scrolling_8A6qie"
+    "images_with_text_scrolling_8A6qie",
+    "rich_text_BQjPgb"
   ]
 }
