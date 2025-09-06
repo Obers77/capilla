@@ -342,6 +342,7 @@
         "slide_h7fCnB": {
           "type": "slide",
           "settings": {
+            "video": "shopify://files/videos/041_e3400911f5924a47b0767642b0789fbb.SD-480p-0.9Mbps-54709976.mp4",
             "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
             "title": "",
             "stars_count": 5
@@ -350,6 +351,7 @@
         "slide_LhFFhh": {
           "type": "slide",
           "settings": {
+            "video": "shopify://files/videos/038_2e76c648ef9d4517b22fddcbb51a5f20.HD-1080p-2.5Mbps-54710893.mp4",
             "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
             "title": "",
             "stars_count": 5
@@ -358,6 +360,7 @@
         "slide_fRHppf": {
           "type": "slide",
           "settings": {
+            "video": "shopify://files/videos/040_db27cf9d527c4d118ba49c9a021de1e0.HD-1080p-2.5Mbps-54710923.mp4",
             "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
             "title": "",
             "stars_count": 5
@@ -366,6 +369,7 @@
         "slide_UTnb3T": {
           "type": "slide",
           "settings": {
+            "video": "shopify://files/videos/039_8065735b080b43c6a26087d8f780aa02.HD-1080p-2.5Mbps-54710871.mp4",
             "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
             "title": "",
             "stars_count": 5
@@ -374,6 +378,16 @@
         "slide_X4T6YM": {
           "type": "slide",
           "settings": {
+            "video": "shopify://files/videos/042_dda82fbd67ff40ad96f35ee7f4d65173.HD-1080p-2.5Mbps-54710991.mp4",
+            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+            "title": "",
+            "stars_count": 5
+          }
+        },
+        "slide_Yknca6": {
+          "type": "slide",
+          "settings": {
+            "video": "shopify://files/videos/041_e3400911f5924a47b0767642b0789fbb.SD-480p-0.9Mbps-54709976.mp4",
             "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
             "title": "",
             "stars_count": 5
@@ -385,7 +399,8 @@
         "slide_LhFFhh",
         "slide_fRHppf",
         "slide_UTnb3T",
-        "slide_X4T6YM"
+        "slide_X4T6YM",
+        "slide_Yknca6"
       ],
       "name": "SS - Video Slider",
       "settings": {
