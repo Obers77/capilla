@@ -195,7 +195,7 @@
         "liquid_BkGYFn": {
           "type": "liquid",
           "settings": {
-            "liquid": "<!DOCTYPE html>\n<html lang=\"fr\">\n<head>\n  <meta charset=\"UTF-8\">\n  <title>Alerte Stock</title>\n  <style>\n    .stock-alert {\n      display: inline-flex;\n      align-items: center;\n      background-color: #ffcccc; /* fond rose clair */\n      color: #ff0000; /* texte rouge vif */\n      font-weight: 600;\n      font-size: 14px;\n      padding: 6px 14px;\n      border-radius: 20px; /* arrondi style \"pill\" */\n      margin: 0 auto;\n    }\n\n    .stock-alert .dot {\n      height: 10px;\n      width: 10px;\n      background-color: #ff0000;\n      border-radius: 50%;\n      display: inline-block;\n      margin-right: 8px;\n      animation: blink 1s infinite;\n    }\n\n    @keyframes blink {\n      0%, 100% { opacity: 1; }\n      50% { opacity: 0; }\n    }\n\n    .center {\n      text-align: center;\n      margin-top: 20px;\n    }\n  </style>\n</head>\n<body>\n  <div class=\"center\">\n    <div class=\"stock-alert\">\n      <span class=\"dot\"></span>\n      <span> Stock limité : 5 Kits restants </span>\n    </div>\n  </div>\n</body>\n</html>"
+            "liquid": "<!DOCTYPE html>\n<html lang=\"fr\">\n<head>\n  <meta charset=\"UTF-8\">\n  <title>Alerte Stock</title>\n  <style>\n    .stock-alert {\n      display: inline-flex;\n      align-items: center;\n      background-color: #ffcccc; /* fond rose clair */\n      color: #ff0000; /* texte rouge vif */\n      font-weight: 600;\n      font-size: 14px;\n      padding: 6px 14px;\n      border-radius: 20px; /* arrondi style \"pill\" */\n      margin: 0 auto;\n    }\n\n    .stock-alert .dot {\n      height: 10px;\n      width: 10px;\n      background-color: #ff0000;\n      border-radius: 50%;\n      display: inline-block;\n      margin-right: 8px;\n      animation: blink 1s infinite;\n    }\n\n    @keyframes blink {\n      0%, 100% { opacity: 1; }\n      50% { opacity: 0; }\n    }\n\n    .center {\n      text-align: center;\n      margin-top: 20px;\n    }\n  </style>\n</head>\n<body>\n  <div class=\"center\">\n    <div class=\"stock-alert\">\n      <span class=\"dot\"></span>\n      <span> Stock limité : 5 unités restants </span>\n    </div>\n  </div>\n</body>\n</html>"
           }
         },
         "buy_buttons_XGwAki": {
@@ -214,6 +214,14 @@
           "settings": {
             "liquid": "<!DOCTYPE html>\n<html lang=\"fr\">\n<head>\n  <meta charset=\"UTF-8\">\n  <title>Logos de Paiement</title>\n  <style>\n    .icon-container {\n      display: flex;\n      gap: 10px;\n      align-items: center;\n      justify-content: center;\n      margin-top: 30px;\n    }\n\n    .icon {\n      width: 40px;\n      height: auto;\n    }\n  </style>\n</head>\n<body>\n\n  <div class=\"icon-container\">\n    <!-- Apple Pay -->\n    <img class=\"icon\" src=\"https://cdn.shopify.com/s/files/1/0747/1749/5526/files/Apple_Pay-Logo.wine.png?v=1746126288\" alt=\"Apple Pay\">\n\n    <!-- Google Pay -->\n    <img class=\"icon\" src=\"https://cdn.shopify.com/s/files/1/0747/1749/5526/files/images.png?v=1746126288\" alt=\"Google Pay\">\n\n    <!-- PayPal -->\n    <img class=\"icon\" src=\"https://upload.wikimedia.org/wikipedia/commons/b/b5/PayPal.svg\" alt=\"PayPal\">\n\n    <!-- Mastercard -->\n    <img class=\"icon\" src=\"https://upload.wikimedia.org/wikipedia/commons/0/04/Mastercard-logo.png\" alt=\"Mastercard\">\n\n    <!-- Visa -->\n    <img class=\"icon\" src=\"https://upload.wikimedia.org/wikipedia/commons/4/41/Visa_Logo.png\" alt=\"Visa\">\n\n    <!-- American Express -->\n    <img class=\"icon\" src=\"https://cdn.shopify.com/s/files/1/0747/1749/5526/files/hd-amex-american-express-logo-png-701751694708970jttzjjyo6e.png?v=1746126288\" alt=\"American Express\">\n  </div>"
           }
+        },
+        "image_BW8mGe": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Design_sans_titre_13.png",
+            "alignment": "center",
+            "max_width": 500
+          }
         }
       },
       "block_order": [
@@ -221,7 +229,8 @@
         "title_7VWeWT",
         "liquid_BkGYFn",
         "buy_buttons_XGwAki",
-        "liquid_bmrqTJ"
+        "liquid_bmrqTJ",
+        "image_BW8mGe"
       ],
       "name": "Featured product",
       "settings": {
