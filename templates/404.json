@@ -432,7 +432,7 @@
         "stars_size_mobile": 16,
         "stars_mt": 16,
         "stars_mt_mobile": 16,
-        "hide_stars": false,
+        "hide_stars": true,
         "use_action": true,
         "action_size": 40,
         "action_size_mobile": 40,
