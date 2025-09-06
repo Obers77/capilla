@@ -216,6 +216,10 @@
             "heading_tag": "h3"
           }
         },
+        "separator_7UgHne": {
+          "type": "separator",
+          "settings": {}
+        },
         "liquid_BkGYFn": {
           "type": "liquid",
           "settings": {
@@ -251,6 +255,7 @@
       "block_order": [
         "liquid_ffrDw4",
         "title_7VWeWT",
+        "separator_7UgHne",
         "liquid_BkGYFn",
         "buy_buttons_XGwAki",
         "liquid_bmrqTJ",
