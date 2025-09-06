@@ -328,6 +328,36 @@
         "text_color": ""
       }
     },
+    "images_with_text_scrolling_8A6qie": {
+      "type": "images-with-text-scrolling",
+      "blocks": {
+        "item_iLrrAE": {
+          "type": "item",
+          "settings": {
+            "icon": "none",
+            "icon_width": 48,
+            "title": "Heading 1",
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_iLrrAE"
+      ],
+      "name": "Images and text scrolling",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": true,
+        "show_counter": false,
+        "desktop_image_effect": "reveal",
+        "image_position": "end",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
+    },
     "videoslider_7VeRtc": {
       "type": "videoslider",
       "blocks": {
@@ -462,6 +492,7 @@
     "featured_product_XL9yHP",
     "tabs_yHbqzV",
     "custom_liquid_YzwtTG",
-    "videoslider_7VeRtc"
+    "videoslider_7VeRtc",
+    "images_with_text_scrolling_8A6qie"
   ]
 }
