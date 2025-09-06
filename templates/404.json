@@ -315,6 +315,19 @@
         "heading_gradient": ""
       }
     },
+    "custom_liquid_YzwtTG": {
+      "type": "custom-liquid",
+      "name": "Custom Liquid",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": true,
+        "remove_horizontal_spacing": false,
+        "liquid": "<head>\n    <title>Trustpilot Stars</title>\n    <!-- Police Poppins -->\n    <link href=\"https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap\" rel=\"stylesheet\">\n</head>\n<body>\n    <div style=\"text-align: center; font-family: 'Poppins', Arial, sans-serif; margin-bottom: 0;\">\n\n        <!-- Phrase d'accroche -->\n        <p style=\"font-size: 20px; font-weight: 700; color: #000; margin: 0 0 5px 0; line-height: 1.3;\">\n            Plus de 3 000 femmes l'ont déjà choisi, et toi ?\n        </p>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "videoslider_7VeRtc": {
       "type": "videoslider",
       "blocks": {
@@ -448,6 +461,7 @@
     "multi_column_Am8qFT",
     "featured_product_XL9yHP",
     "tabs_yHbqzV",
+    "custom_liquid_YzwtTG",
     "videoslider_7VeRtc"
   ]
 }
