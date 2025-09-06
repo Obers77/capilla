@@ -142,10 +142,10 @@
     "multi_column_Am8qFT": {
       "type": "multi-column",
       "blocks": {
-        "item_KdcgkT": {
+        "item_yYjgqV": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/1.jpg",
+            "image": "shopify://shop_images/2.jpg",
             "column_size": "3",
             "title": "Column title",
             "heading_tag": "h4",
@@ -155,10 +155,10 @@
             "link_style": "link"
           }
         },
-        "item_yYjgqV": {
+        "item_KdcgkT": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/2.jpg",
+            "image": "shopify://shop_images/1.jpg",
             "column_size": "3",
             "title": "Column title",
             "heading_tag": "h4",
@@ -183,8 +183,8 @@
         }
       },
       "block_order": [
-        "item_KdcgkT",
         "item_yYjgqV",
+        "item_KdcgkT",
         "item_cNJXGF"
       ],
       "name": "Multi-column",
