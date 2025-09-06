@@ -48,7 +48,7 @@
           "type": "logo",
           "settings": {
             "logo": "shopify://shop_images/Marie_Claire_Magazine_logo_svg.png",
-            "logo_width": 120,
+            "logo_width": 180,
             "link": ""
           }
         },
@@ -90,8 +90,8 @@
         "heading_cGPTR9": {
           "type": "heading",
           "settings": {
-            "text": "Heading",
-            "heading_tag": "h1",
+            "text": "Pourquoi chosir notre body ?",
+            "heading_tag": "h3",
             "text_color": "",
             "gradient": ""
           }
