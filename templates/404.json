@@ -39,6 +39,7 @@
         "logo_NrUztr": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/VOGUE_revista_-_logo.png",
             "logo_width": 120,
             "link": ""
           }
