@@ -575,29 +575,13 @@
             "review_text": "Add awesome customer testimonial right here",
             "review_rating": 5
           }
-        },
-        "image_Cx9iBx": {
-          "type": "Image",
-          "settings": {
-            "review_text": "Add awesome customer testimonial right here",
-            "review_rating": 5
-          }
-        },
-        "image_KcqxBV": {
-          "type": "Image",
-          "settings": {
-            "review_text": "Add awesome customer testimonial right here",
-            "review_rating": 5
-          }
         }
       },
       "block_order": [
         "image_WmX3gC",
         "image_wVAr6C",
         "image_pHJXTq",
-        "image_Vh9NbX",
-        "image_Cx9iBx",
-        "image_KcqxBV"
+        "image_Vh9NbX"
       ],
       "name": "SS - Glow Testimonial",
       "settings": {
