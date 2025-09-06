@@ -547,6 +547,7 @@
         "image_WmX3gC": {
           "type": "Image",
           "settings": {
+            "review_icon": "shopify://shop_images/94fe4d153142ecfd1be15f1ef7fcb154.jpg",
             "review_text": "Add awesome customer testimonial right here",
             "review_rating": 5
           }
@@ -554,6 +555,7 @@
         "image_wVAr6C": {
           "type": "Image",
           "settings": {
+            "review_icon": "shopify://shop_images/374e5c27c6df7818b7a2ac0c51c89756.jpg",
             "review_text": "Add awesome customer testimonial right here",
             "review_rating": 5
           }
@@ -561,6 +563,7 @@
         "image_pHJXTq": {
           "type": "Image",
           "settings": {
+            "review_icon": "shopify://shop_images/woman-in-mirror.jpg",
             "review_text": "Add awesome customer testimonial right here",
             "review_rating": 5
           }
@@ -568,6 +571,7 @@
         "image_Vh9NbX": {
           "type": "Image",
           "settings": {
+            "review_icon": "shopify://shop_images/brown-eyed-girl.jpg",
             "review_text": "Add awesome customer testimonial right here",
             "review_rating": 5
           }
